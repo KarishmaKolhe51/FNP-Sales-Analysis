@@ -1,5 +1,7 @@
 # Ferns N Petals Sales Analysis
 
+image![https://www.fnp.com/?utm_source=Google&utm_medium=cpc&utm_campaign=22048018034&utm_adgroup=170867774085&utm_keyword=fnp&utm_device=c&utm_placement=&utm_network=g&gad_source=1&gclid=CjwKCAiAtNK8BhBBEiwA8wVt9-z5CVZG1SjugtTUaIGLr71bRZ7--GCubiuCAOFlTC1L0Oot_7AMrhoCi-kQAvD_BwE]
+
 Project Overview
 
 Analyzed Ferns N Petals (FNP) sales data to extract insights and support decision-making. Created an interactive Excel dashboard showcasing key metrics like revenue, top products, and customer trends.
