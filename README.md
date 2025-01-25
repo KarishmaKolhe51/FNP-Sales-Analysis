@@ -1,6 +1,6 @@
 # Ferns N Petals Sales Analysis
 
-image![https://www.fnp.com/?utm_source=Google&utm_medium=cpc&utm_campaign=22048018034&utm_adgroup=170867774085&utm_keyword=fnp&utm_device=c&utm_placement=&utm_network=g&gad_source=1&gclid=CjwKCAiAtNK8BhBBEiwA8wVt9-z5CVZG1SjugtTUaIGLr71bRZ7--GCubiuCAOFlTC1L0Oot_7AMrhoCi-kQAvD_BwE]
+![image](C:\Users\Karishma\OneDrive\Documents\DA_Projects\Ferns and Petals Sales Analysis\fnp_ss.png)
 
 Project Overview
 
