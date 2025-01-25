@@ -1,6 +1,6 @@
 # Ferns N Petals Sales Analysis
 
-![image](Ferns and Petals Sales Analysis/fnp_ss.png)
+![image](https://d1gzz21cah5pzn.cloudfront.net/img/websites/f/fnp/fnp.com-desktop@2x.1653077432.jpg)
 
 Project Overview
 
