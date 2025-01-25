@@ -1,6 +1,6 @@
 # Ferns N Petals Sales Analysis
 
-![image](C:/Users/Karishma/OneDrive/Documents/DA_Projects/Ferns and Petals Sales Analysis/fnp_ss.png)
+![image](Ferns and Petals Sales Analysis/fnp_ss.png)
 
 Project Overview
 
