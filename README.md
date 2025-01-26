@@ -1,6 +1,6 @@
 # Ferns N Petals Sales Analysis
 
-![image](https://d1gzz21cah5pzn.cloudfront.net/img/websites/f/fnp/fnp.com-desktop@2x.1653077432.jpg)
+![image](https://panel.gokwik.co/storage/app/public/images/screenshot-2023-02-09-at-10.12.51-am-1024x584[1]_1696577558.jpg)
 
 Project Overview
 
