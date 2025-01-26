@@ -2,15 +2,15 @@
 
 ![image](https://panel.gokwik.co/storage/app/public/images/screenshot-2023-02-09-at-10.12.51-am-1024x584[1]_1696577558.jpg)
 
-Project Overview
+##Project Overview
 
 Analyzed Ferns N Petals (FNP) sales data to extract insights and support decision-making. Created an interactive Excel dashboard showcasing key metrics like revenue, top products, and customer trends.
 
-Key Features:
+##Key Features:
 
 Interactive Dashboard: Includes dynamic charts, slicers, and KPIs.
 
-Comprehensive Analysis:
+##Comprehensive Analysis:
 
 1. Revenue trends by occasion, category, and time.
 
@@ -18,7 +18,7 @@ Comprehensive Analysis:
 
 3. Delivery time and spending patterns.
 
-Efficient Workflow:
+##Efficient Workflow:
 
 1. Data cleaning with Power Query.
 
@@ -26,7 +26,7 @@ Efficient Workflow:
 
 3. Custom measures via DAX functions.
 
-Tools & Techniques
+##Tools & Techniques
 
 Power Query: Data cleaning and transformation.
 
@@ -36,7 +36,7 @@ DAX Functions: Custom calculations.
 
 Charts and Slicers: Interactive visuals.
 
-Workflow:
+##Workflow:
 
 1. Imported raw data (Customers, Orders, Products).
 
@@ -48,7 +48,7 @@ Workflow:
 
 5. Designed a dynamic dashboard.
 
-Insights:
+##Insights:
 
 1. Identified top products, categories, and cities driving revenue.
 
